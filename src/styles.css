@@ -1,1 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-image: url('../../customers/src/assets/img/water.jpg');
+    
+}
+
+.loginRegistro{
+    margin-top: 180px;
+}
+
+.text{
+    font-family: 'Joan', serif;
+    font-size: 50px;
+}
+.btn{
+    font-family: 'Joan', serif;
+    font-size: 30px;
+    
+}
+.titulo{
+    font-family: 'Joan', serif;
+    font-size: 50px;
+}
+#advices{
+    text-align: start;
+  }
